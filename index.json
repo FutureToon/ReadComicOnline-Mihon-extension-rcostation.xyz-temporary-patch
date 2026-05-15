@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: ReadComicOnline",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.41-rcostation-debug.apk",
+    "lang": "en",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ReadComicOnline",
+        "lang": "en",
+        "id": "8061953015808280611",
+        "baseUrl": "https://rcostation.xyz"
+      }
+    ]
+  }
+]
