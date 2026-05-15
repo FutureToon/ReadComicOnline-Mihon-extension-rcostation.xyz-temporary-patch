@@ -27,5 +27,5 @@ This is not an official Mihon, Tachiyomi, or Keiyoushi build. It is a temporary 
 ## SHA256
 
 ```text
-PASTE_HASH_HERE
+A7B8B1C1E4EA8B24EC9EAF5E3C990B19465DE532CDEBDC0108E550BFCF740F2D
 ```
