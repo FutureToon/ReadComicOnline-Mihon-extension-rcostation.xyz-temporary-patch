@@ -2,6 +2,8 @@
 
 Unofficial debug-signed patch of the ReadComicOnline Mihon/Tachiyomi extension.
 
+Only install this if you are comfortable using an unofficial debug-signed extension APK.
+
 Changed the extension base URL from:
 
 ```text
